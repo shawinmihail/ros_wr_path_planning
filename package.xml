@@ -1,0 +1,16 @@
+<package>
+  <name>ros_wr_path_planning</name>
+  <version>0.1.1</version>
+  <description>ros_wr_path_planning</description>
+  <maintainer email="shawinmihail@gmail.com">M SHavin</maintainer>
+
+  <license>commertial</license>
+  <author>M SHavin</author>
+  
+  <build_depend>rospy</build_depend>
+  <run_depend>rospy</run_depend>
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>catkin</run_depend>
+  <build_depend>wr_msgs</build_depend>
+
+</package>
